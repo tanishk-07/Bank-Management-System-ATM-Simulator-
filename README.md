@@ -41,7 +41,3 @@ The ATM Simulator provides the following functionalities:
   - Event Handling in Java  
   - Multithreading (for fast cash and transactions)  
   - JDBC connectivity  
-
----
-
-## Project Structure
